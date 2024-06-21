@@ -12,7 +12,8 @@
 
 ###
 
-<p align="left">✨ I am a data  enthusiastic.<br>I have over 5+ years experience in data visualization in different BI platforms. I like to work with data and find actionable key insight of it</p>
+<p align="left">✨ I am a data  enthusiastic.<br>I have over 5+ years experience in data visualization in different BI platforms. I like to work with data and find actionable key insight of it
+Lets explore the data 🌏 with me </p>
 
 ###
 
